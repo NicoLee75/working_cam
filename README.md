@@ -67,7 +67,7 @@ For Software:
 
 ### Project Demo
 # Video
-<img width="1152" height="1398" alt="WhatsApp Image 2026-09-12 at 3 05 58 PM" src="https://github.com/user-attachments/assets/f4e46a6e-594b-4b82-9494-05faa9b741fa" />
+[<img width="1152" height="1398" alt="WhatsApp Image 2026-09-12 at 3 05 58 PM" src="https://github.com/user-attachments/assets/f4e46a6e-594b-4b82-9494-05faa9b741fa" />](https://youtu.be/vAqL3PRWH3M)
 *This video demonstrates the working of our highly sophisticated camera and how we love our many wives.*
 
 
