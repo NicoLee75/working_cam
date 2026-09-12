@@ -61,14 +61,14 @@ For Software:
 *You get to download or delete your awesome picture at the end of it!*
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+<img width="1152" height="1398" alt="image" src="https://github.com/user-attachments/assets/8d68476c-19a2-4d23-bb70-cd3c62d368fe" />
+
 
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+<img width="1152" height="1398" alt="WhatsApp Image 2026-09-12 at 3 05 58 PM" src="https://github.com/user-attachments/assets/f4e46a6e-594b-4b82-9494-05faa9b741fa" />
+*This video demonstrates the working of our highly sophisticated camera and how we love our many wives.*
 
 
 ## Team Contributions
